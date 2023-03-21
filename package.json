@@ -2,6 +2,11 @@
   "dependencies": {
     "@discordjs/rest": "^1.5.0",
     "discord-api-types": "^0.37.35",
-    "discord.js": "^13.13.1"
+    "discord.js": "^13.13.1"  ,
+    
+  },
+  "engines": {
+    "node": "v18.14.2",
+    "npm": "9.5.0"
   }
 }
