@@ -17,7 +17,7 @@ const slashFiles = fs.readdirSync(`./slashcmd/${folder}`).filter(file => file.en
 }
 
 
-const rest = new REST({ version: '10' }).setToken("MTA4MjQ1ODQ3NjU4NTk0NzE1Ng.GjL3aq.CwKened--_aOnMdOSUnmClUjXpOPWZd0-cpDb8");
+const rest = new REST({ version: '10' }).setToken("");
 
 (async () => {
     try {
