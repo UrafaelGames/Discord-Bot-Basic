@@ -1,3 +1,7 @@
+# Discord-Bot-Basic
+
+Hello people... Yes, it's me again, today I come with something new... Well, not so new
+
 basic index.js code to make a discord bot...
 
 As I created this code 3 years ago (I was still a kid when I created it, how time goes by) and I was just learning how to do this stuff.
