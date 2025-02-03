@@ -105,4 +105,4 @@ if(cmd){
 
 });
 
-client.login("MTA4MjQ1ODQ3NjU4NTk0NzE1Ng.GjL3aq.CwKened--_aOnMdOSUnmClUjXpOPWZd0-cpDb8");
+client.login(TOKEN);
