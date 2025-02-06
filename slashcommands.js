@@ -6,7 +6,7 @@ const {  token } = require(`${process.cwd()}/config.json`);
 
 const slash = [];
 
-const clientId = '1082458476585947156';
+const clientId = '';
 const slashFolders = fs.readdirSync('./slashcmd');
 for (const folder of slashFolders) {
 const slashFiles = fs.readdirSync(`./slashcmd/${folder}`).filter(file => file.endsWith('.js'));
